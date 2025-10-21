@@ -1,1 +1,1 @@
-# folder-series-one This repo contains a compressed MP4 video and a simple HTML file for embedding a looped autoplay video on a site.
+Video asset licensed from Envato Market under Regular License. Not for redistribution.
